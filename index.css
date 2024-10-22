@@ -189,6 +189,14 @@ padding-left: 5rem;}
 #contato{gap: var(--gap);}
 
 footer{text-align: center;}
+@media (max-width: 768px) {
+   
+}
+
+@media (min-width: 769px) {
+  
+}
+
 
 
 
