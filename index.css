@@ -62,7 +62,8 @@ margin: 0 auto;
 padding: var(--gap);
 }
 
-.section{min-height: 100vh;}
+.section{min-height: 100vh;
+        min-width: 100vh;}
 
 .menu-spacing{height: 65px;}
 
@@ -197,13 +198,7 @@ padding-left: 5rem;}
 #contato{gap: var(--gap);}
 
 footer{text-align: center;}
-@media (max-width: 768px) {
-   
-}
 
-@media (min-width: 769px) {
-  
-}
 
 
 
