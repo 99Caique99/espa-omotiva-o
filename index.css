@@ -66,7 +66,8 @@ padding: var(--gap);
 
 .menu-spacing{height: 65px;}
 
-.white-bg{width: 100%;
+.white-bg{min-height: 100vh;
+    width: 100%;
         height: 100%;
     background:var(--white-color);
 color: var(--primary-color)}
